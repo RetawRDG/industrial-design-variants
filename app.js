@@ -3,7 +3,7 @@
   const qs = (s, r=document)=>r.querySelector(s);
   const qsa = (s, r=document)=>[...r.querySelectorAll(s)];
   const state = { query:'', category:'all', selected:null };
-  const imgFallback = 'assets/valve-demo.jpg';
+  const imgFallback = 'real-assets/real-1.jpg';
   const categories = ['all', ...Array.from(new Set(products.map(p=>p.category)))];
   const labels = Object.fromEntries(products.map(p=>[p.category,p.categoryLabel]));
   labels.all='Все';
