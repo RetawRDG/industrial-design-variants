@@ -55,8 +55,8 @@
   function openRfq(){
     const p=state.selected;
     const title=p?`КП: ${p.name}`:'Запрос КП по запчастям';
-    const body=p?`Здравствуйте. Нужна КП/проверка совместимости по позиции: ${p.name}. OEM/код: ${p.oem}. Количество: __. Срок: __. Фото узла/шильдика приложу.`:'Здравствуйте. Нужна КП/подбор запчасти. Опишу узел, количество, сроки и приложу фото.';
-    const mail=`mailto:sales@example.local?subject=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
+    const body=p?`Здравствуйте, Лимпекс. Нужна КП/проверка совместимости по позиции: ${p.name}. OEM/код: ${p.oem}. Количество: __. Срок: __. Фото узла/шильдика приложу.`:'Здравствуйте, Лимпекс. Нужна КП/подбор запчасти. Опишу узел, количество, сроки и приложу фото.';
+    const mail=`mailto:sales@limpeks.ru?subject=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
     window.location.href=mail;
   }
   function escapeHtml(s){return String(s||'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]));}
