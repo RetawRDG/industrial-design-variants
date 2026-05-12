@@ -10,24 +10,60 @@
     <loc>https://retawrdg.github.io/industrial-design-variants/variant-a.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.75</priority>
   </url>
   <url>
     <loc>https://retawrdg.github.io/industrial-design-variants/variant-b.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.75</priority>
   </url>
   <url>
     <loc>https://retawrdg.github.io/industrial-design-variants/variant-c.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.75</priority>
   </url>
   <url>
     <loc>https://retawrdg.github.io/industrial-design-variants/research.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://retawrdg.github.io/industrial-design-variants/zapchasti/diskovye-zatvory-dn/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://retawrdg.github.io/industrial-design-variants/zapchasti/vibratory-omb/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://retawrdg.github.io/industrial-design-variants/zapchasti/lopasti-smesitelya-simem/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://retawrdg.github.io/industrial-design-variants/diagnostika/ne-otkryvaetsya-zatvor-bsu/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://retawrdg.github.io/industrial-design-variants/diagnostika/ne-rabotaet-vibrator-bunkera/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://retawrdg.github.io/industrial-design-variants/diagnostika/iznos-lopastey-smesitelya/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
   </url>
 </urlset>
