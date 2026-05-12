@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Дисковый затвор">
+  <rect width="900" height="520" fill="#f3f5f2"/>
+  <g transform="translate(450 260)">
+    <circle r="154" fill="#d9dfd8" stroke="#7b8580" stroke-width="12"/>
+    <circle r="108" fill="#eef1ed" stroke="#9aa39f" stroke-width="6"/>
+    <ellipse rx="34" ry="118" fill="#aab4af" transform="rotate(28)"/>
+    <circle r="21" fill="#66716c"/>
+    <g fill="#eef1ed" stroke="#7b8580" stroke-width="5">
+      <circle cx="0" cy="-190" r="23"/><circle cx="134" cy="-134" r="23"/><circle cx="190" cy="0" r="23"/><circle cx="134" cy="134" r="23"/><circle cx="0" cy="190" r="23"/><circle cx="-134" cy="134" r="23"/><circle cx="-190" cy="0" r="23"/><circle cx="-134" cy="-134" r="23"/>
+    </g>
+    <rect x="-230" y="-42" width="460" height="84" rx="16" fill="none" stroke="#5f9f37" stroke-width="10" opacity=".78"/>
+  </g>
+  <text x="48" y="72" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#17212d">Дисковый затвор</text>
+  <text x="48" y="112" font-family="Arial, sans-serif" font-size="20" fill="#66716c">DN уточняется по заявке</text>
+</svg>

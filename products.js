@@ -8,7 +8,7 @@ window.PRODUCTS = [
     "group": "MIX / бетонные заводы",
     "stock": "12 шт",
     "price": "Цена по запросу",
-    "image": "real-assets/real-1.jpg",
+    "image": "clean-assets/valve.svg",
     "tags": [
       "Затворы",
       "КП по запросу",
@@ -32,7 +32,9 @@ window.PRODUCTS = [
         "КП по запросу"
       ]
     ],
-    "note": "Для КП укажите количество и срок. Если есть фото узла или шильдика, приложите его к запросу."
+    "note": "Для КП укажите количество и срок. Если есть фото узла или шильдика, приложите его к запросу.",
+    "fullImage": "real-assets/real-1.jpg",
+    "sourceImage": "real-assets/real-1.jpg"
   },
   {
     "id": "src-156",
@@ -43,7 +45,7 @@ window.PRODUCTS = [
     "group": "MIX / бетонные заводы",
     "stock": "7 шт",
     "price": "Цена по запросу",
-    "image": "real-assets/real-2.jpg",
+    "image": "clean-assets/valve.svg",
     "tags": [
       "Затворы",
       "КП по запросу",
@@ -67,7 +69,9 @@ window.PRODUCTS = [
         "КП по запросу"
       ]
     ],
-    "note": "Для КП укажите количество и срок. Если есть фото узла или шильдика, приложите его к запросу."
+    "note": "Для КП укажите количество и срок. Если есть фото узла или шильдика, приложите его к запросу.",
+    "fullImage": "real-assets/real-2.jpg",
+    "sourceImage": "real-assets/real-2.jpg"
   },
   {
     "id": "src-57",
@@ -78,7 +82,7 @@ window.PRODUCTS = [
     "group": "MIX / бетонные заводы",
     "stock": "23 шт",
     "price": "Цена по запросу",
-    "image": "real-assets/real-3.jpg",
+    "image": "clean-assets/valve.svg",
     "tags": [
       "Затворы",
       "КП по запросу",
@@ -102,7 +106,9 @@ window.PRODUCTS = [
         "КП по запросу"
       ]
     ],
-    "note": "Для КП укажите количество и срок. Если есть фото узла или шильдика, приложите его к запросу."
+    "note": "Для КП укажите количество и срок. Если есть фото узла или шильдика, приложите его к запросу.",
+    "fullImage": "real-assets/real-3.jpg",
+    "sourceImage": "real-assets/real-3.jpg"
   },
   {
     "id": "src-159",
@@ -113,7 +119,7 @@ window.PRODUCTS = [
     "group": "MIX / бетонные заводы",
     "stock": "11 шт",
     "price": "Цена по запросу",
-    "image": "real-assets/real-4.jpg",
+    "image": "clean-assets/valve.svg",
     "tags": [
       "Затворы",
       "КП по запросу",
@@ -137,7 +143,9 @@ window.PRODUCTS = [
         "КП по запросу"
       ]
     ],
-    "note": "Для КП укажите количество и срок. Если есть фото узла или шильдика, приложите его к запросу."
+    "note": "Для КП укажите количество и срок. Если есть фото узла или шильдика, приложите его к запросу.",
+    "fullImage": "real-assets/real-4.jpg",
+    "sourceImage": "real-assets/real-4.jpg"
   },
   {
     "id": "src-303",
@@ -148,7 +156,7 @@ window.PRODUCTS = [
     "group": "Электрические вибраторы",
     "stock": "2 шт",
     "price": "Цена по запросу",
-    "image": "real-assets/real-5.png",
+    "image": "clean-assets/vibrator.svg",
     "tags": [
       "Электрические вибраторы",
       "КП по запросу",
@@ -172,7 +180,9 @@ window.PRODUCTS = [
         "КП по запросу"
       ]
     ],
-    "note": "Для КП укажите количество и срок. Если есть фото узла или шильдика, приложите его к запросу."
+    "note": "Для КП укажите количество и срок. Если есть фото узла или шильдика, приложите его к запросу.",
+    "fullImage": "real-assets/real-5.png",
+    "sourceImage": "real-assets/real-5.png"
   },
   {
     "id": "src-304",
@@ -183,7 +193,7 @@ window.PRODUCTS = [
     "group": "Электрические вибраторы",
     "stock": "5 шт",
     "price": "Цена по запросу",
-    "image": "real-assets/real-6.jpg",
+    "image": "clean-assets/vibrator.svg",
     "tags": [
       "Электрические вибраторы",
       "КП по запросу",
@@ -207,7 +217,9 @@ window.PRODUCTS = [
         "КП по запросу"
       ]
     ],
-    "note": "Для КП укажите количество и срок. Если есть фото узла или шильдика, приложите его к запросу."
+    "note": "Для КП укажите количество и срок. Если есть фото узла или шильдика, приложите его к запросу.",
+    "fullImage": "real-assets/real-6.jpg",
+    "sourceImage": "real-assets/real-6.jpg"
   },
   {
     "id": "src-305",
@@ -218,7 +230,7 @@ window.PRODUCTS = [
     "group": "Электрические вибраторы",
     "stock": "3 шт",
     "price": "Цена по запросу",
-    "image": "real-assets/real-7.jpg",
+    "image": "clean-assets/vibrator.svg",
     "tags": [
       "Электрические вибраторы",
       "КП по запросу",
@@ -242,7 +254,9 @@ window.PRODUCTS = [
         "КП по запросу"
       ]
     ],
-    "note": "Для КП укажите количество и срок. Если есть фото узла или шильдика, приложите его к запросу."
+    "note": "Для КП укажите количество и срок. Если есть фото узла или шильдика, приложите его к запросу.",
+    "fullImage": "real-assets/real-7.jpg",
+    "sourceImage": "real-assets/real-7.jpg"
   },
   {
     "id": "src-306",
@@ -253,7 +267,7 @@ window.PRODUCTS = [
     "group": "Электрические вибраторы",
     "stock": "3 шт",
     "price": "Цена по запросу",
-    "image": "real-assets/real-8.jpg",
+    "image": "clean-assets/vibrator.svg",
     "tags": [
       "Электрические вибраторы",
       "КП по запросу",
@@ -277,7 +291,9 @@ window.PRODUCTS = [
         "КП по запросу"
       ]
     ],
-    "note": "Для КП укажите количество и срок. Если есть фото узла или шильдика, приложите его к запросу."
+    "note": "Для КП укажите количество и срок. Если есть фото узла или шильдика, приложите его к запросу.",
+    "fullImage": "real-assets/real-8.jpg",
+    "sourceImage": "real-assets/real-8.jpg"
   },
   {
     "id": "src-301",
@@ -288,7 +304,7 @@ window.PRODUCTS = [
     "group": "Электрические вибраторы",
     "stock": "4 шт",
     "price": "Цена по запросу",
-    "image": "real-assets/real-9.png",
+    "image": "clean-assets/vibrator.svg",
     "tags": [
       "Электрические вибраторы",
       "КП по запросу",
@@ -312,7 +328,9 @@ window.PRODUCTS = [
         "КП по запросу"
       ]
     ],
-    "note": "Для КП укажите количество и срок. Если есть фото узла или шильдика, приложите его к запросу."
+    "note": "Для КП укажите количество и срок. Если есть фото узла или шильдика, приложите его к запросу.",
+    "fullImage": "real-assets/real-9.png",
+    "sourceImage": "real-assets/real-9.png"
   },
   {
     "id": "src-136",
@@ -323,7 +341,7 @@ window.PRODUCTS = [
     "group": "Лопасти смесителя",
     "stock": "12 шт",
     "price": "Цена по запросу",
-    "image": "real-assets/real-10.jpg",
+    "image": "clean-assets/blade.svg",
     "tags": [
       "Лопасти смесителя",
       "КП по запросу",
@@ -347,6 +365,8 @@ window.PRODUCTS = [
         "КП по запросу"
       ]
     ],
-    "note": "Для КП укажите количество и срок. Если есть фото узла или шильдика, приложите его к запросу."
+    "note": "Для КП укажите количество и срок. Если есть фото узла или шильдика, приложите его к запросу.",
+    "fullImage": "real-assets/real-10.jpg",
+    "sourceImage": "real-assets/real-10.jpg"
   }
 ];

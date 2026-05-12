@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Промышленный вибратор">
+  <rect width="900" height="520" fill="#f3f5f2"/>
+  <g transform="translate(450 270)">
+    <rect x="-215" y="-92" width="430" height="184" rx="46" fill="#2f6fbd" stroke="#174a86" stroke-width="10"/>
+    <rect x="-270" y="-54" width="70" height="108" rx="24" fill="#244f85"/>
+    <rect x="200" y="-54" width="70" height="108" rx="24" fill="#244f85"/>
+    <rect x="-150" y="92" width="300" height="54" rx="16" fill="#6a747c"/>
+    <rect x="-205" y="146" width="410" height="38" rx="12" fill="#566168"/>
+    <g fill="none" stroke="#dbe8f6" stroke-width="8" opacity=".9"><path d="M-130-45h260M-150 0h300M-130 45h260"/></g>
+    <circle cx="0" cy="0" r="44" fill="#dbe8f6" stroke="#174a86" stroke-width="8"/>
+  </g>
+  <text x="48" y="72" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#17212d">Промышленный вибратор</text>
+  <text x="48" y="112" font-family="Arial, sans-serif" font-size="20" fill="#66716c">O.M.B. / подбор по маркировке</text>
+</svg>
