@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://retawrdg.github.io/industrial-design-variants/sitemap.xml
