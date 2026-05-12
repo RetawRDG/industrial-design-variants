@@ -24,7 +24,7 @@
         <div class="meta-row">
           <div class="meta"><span>код</span><strong>${escapeHtml(p.oem||'—')}</strong></div>
           <div class="meta"><span>остаток</span><strong>${escapeHtml(p.stock)}</strong></div>
-          <div class="meta"><span>продажа</span><strong>RFQ</strong></div>
+          <div class="meta"><span>продажа</span><strong>КП</strong></div>
         </div>
       </div>
     </article>`;
