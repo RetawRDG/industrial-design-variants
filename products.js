@@ -6,9 +6,9 @@ window.PRODUCTS = [
     "categoryLabel": "Затворы",
     "oem": "N-SVAH100C2А61",
     "group": "MIX / бетонные заводы",
-    "stock": "12 шт",
+    "stock": "По запросу",
     "price": "Цена по запросу",
-    "image": "clean-assets/valve.svg",
+    "image": "product-thumbs/real-1-thumb.jpg",
     "tags": [
       "Затворы",
       "КП по запросу",
@@ -22,10 +22,6 @@ window.PRODUCTS = [
       [
         "Артикул / код",
         "N-SVAH100C2А61"
-      ],
-      [
-        "Наличие",
-        "12 шт"
       ],
       [
         "Продажа",
@@ -43,9 +39,9 @@ window.PRODUCTS = [
     "categoryLabel": "Затворы",
     "oem": "N-SVAH200С2A61",
     "group": "MIX / бетонные заводы",
-    "stock": "7 шт",
+    "stock": "По запросу",
     "price": "Цена по запросу",
-    "image": "clean-assets/valve.svg",
+    "image": "product-thumbs/real-2-thumb.jpg",
     "tags": [
       "Затворы",
       "КП по запросу",
@@ -59,10 +55,6 @@ window.PRODUCTS = [
       [
         "Артикул / код",
         "N-SVAH200С2A61"
-      ],
-      [
-        "Наличие",
-        "7 шт"
       ],
       [
         "Продажа",
@@ -80,9 +72,9 @@ window.PRODUCTS = [
     "categoryLabel": "Затворы",
     "oem": "N-SVAH250С2А61",
     "group": "MIX / бетонные заводы",
-    "stock": "23 шт",
+    "stock": "По запросу",
     "price": "Цена по запросу",
-    "image": "clean-assets/valve.svg",
+    "image": "product-thumbs/real-3-thumb.jpg",
     "tags": [
       "Затворы",
       "КП по запросу",
@@ -96,10 +88,6 @@ window.PRODUCTS = [
       [
         "Артикул / код",
         "N-SVAH250С2А61"
-      ],
-      [
-        "Наличие",
-        "23 шт"
       ],
       [
         "Продажа",
@@ -117,9 +105,9 @@ window.PRODUCTS = [
     "categoryLabel": "Затворы",
     "oem": "N-SVAH300С2А61",
     "group": "MIX / бетонные заводы",
-    "stock": "11 шт",
+    "stock": "По запросу",
     "price": "Цена по запросу",
-    "image": "clean-assets/valve.svg",
+    "image": "product-thumbs/real-4-thumb.jpg",
     "tags": [
       "Затворы",
       "КП по запросу",
@@ -133,10 +121,6 @@ window.PRODUCTS = [
       [
         "Артикул / код",
         "N-SVAH300С2А61"
-      ],
-      [
-        "Наличие",
-        "11 шт"
       ],
       [
         "Продажа",
@@ -154,9 +138,9 @@ window.PRODUCTS = [
     "categoryLabel": "Электрические вибраторы",
     "oem": "BS30-0013A; BM 130/3",
     "group": "Электрические вибраторы",
-    "stock": "2 шт",
+    "stock": "По запросу",
     "price": "Цена по запросу",
-    "image": "clean-assets/vibrator.svg",
+    "image": "product-thumbs/real-5-thumb.jpg",
     "tags": [
       "Электрические вибраторы",
       "КП по запросу",
@@ -170,10 +154,6 @@ window.PRODUCTS = [
       [
         "Артикул / код",
         "BS30-0013A; BM 130/3"
-      ],
-      [
-        "Наличие",
-        "2 шт"
       ],
       [
         "Продажа",
@@ -191,9 +171,9 @@ window.PRODUCTS = [
     "categoryLabel": "Электрические вибраторы",
     "oem": "BS30-0020А; BM 200/3",
     "group": "Электрические вибраторы",
-    "stock": "5 шт",
+    "stock": "По запросу",
     "price": "Цена по запросу",
-    "image": "clean-assets/vibrator.svg",
+    "image": "product-thumbs/real-6-thumb.jpg",
     "tags": [
       "Электрические вибраторы",
       "КП по запросу",
@@ -207,10 +187,6 @@ window.PRODUCTS = [
       [
         "Артикул / код",
         "BS30-0020А; BM 200/3"
-      ],
-      [
-        "Наличие",
-        "5 шт"
       ],
       [
         "Продажа",
@@ -228,9 +204,9 @@ window.PRODUCTS = [
     "categoryLabel": "Электрические вибраторы",
     "oem": "BS30-0030А; BM 300/3",
     "group": "Электрические вибраторы",
-    "stock": "3 шт",
+    "stock": "По запросу",
     "price": "Цена по запросу",
-    "image": "clean-assets/vibrator.svg",
+    "image": "product-thumbs/real-7-thumb.jpg",
     "tags": [
       "Электрические вибраторы",
       "КП по запросу",
@@ -244,10 +220,6 @@ window.PRODUCTS = [
       [
         "Артикул / код",
         "BS30-0030А; BM 300/3"
-      ],
-      [
-        "Наличие",
-        "3 шт"
       ],
       [
         "Продажа",
@@ -265,9 +237,9 @@ window.PRODUCTS = [
     "categoryLabel": "Электрические вибраторы",
     "oem": "BS30-0065А; BM 650/3",
     "group": "Электрические вибраторы",
-    "stock": "3 шт",
+    "stock": "По запросу",
     "price": "Цена по запросу",
-    "image": "clean-assets/vibrator.svg",
+    "image": "product-thumbs/real-8-thumb.jpg",
     "tags": [
       "Электрические вибраторы",
       "КП по запросу",
@@ -281,10 +253,6 @@ window.PRODUCTS = [
       [
         "Артикул / код",
         "BS30-0065А; BM 650/3"
-      ],
-      [
-        "Наличие",
-        "3 шт"
       ],
       [
         "Продажа",
@@ -302,9 +270,9 @@ window.PRODUCTS = [
     "categoryLabel": "Электрические вибраторы",
     "oem": "BS15-0009A; BM 90/15",
     "group": "Электрические вибраторы",
-    "stock": "4 шт",
+    "stock": "По запросу",
     "price": "Цена по запросу",
-    "image": "clean-assets/vibrator.svg",
+    "image": "product-thumbs/real-9-thumb.jpg",
     "tags": [
       "Электрические вибраторы",
       "КП по запросу",
@@ -318,10 +286,6 @@ window.PRODUCTS = [
       [
         "Артикул / код",
         "BS15-0009A; BM 90/15"
-      ],
-      [
-        "Наличие",
-        "4 шт"
       ],
       [
         "Продажа",
@@ -339,9 +303,9 @@ window.PRODUCTS = [
     "categoryLabel": "Лопасти смесителя",
     "oem": "MSO-1500",
     "group": "Лопасти смесителя",
-    "stock": "12 шт",
+    "stock": "По запросу",
     "price": "Цена по запросу",
-    "image": "clean-assets/blade.svg",
+    "image": "product-thumbs/real-10-thumb.jpg",
     "tags": [
       "Лопасти смесителя",
       "КП по запросу",
@@ -355,10 +319,6 @@ window.PRODUCTS = [
       [
         "Артикул / код",
         "MSO-1500"
-      ],
-      [
-        "Наличие",
-        "12 шт"
       ],
       [
         "Продажа",
